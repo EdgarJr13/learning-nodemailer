@@ -1,0 +1,17 @@
+{
+  "name": "learning-nodemailer",
+  "version": "1.0.0",
+  "description": "Learning about Nodemailer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edgar Jr.",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.17"
+  },
+  "scripts": {
+    "start": "node src"
+  }
+}
